@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "switchCustom")(type "KiCad")(uri "${KIPRJMOD}/switchCustom.pretty")(options "")(descr ""))
+)
